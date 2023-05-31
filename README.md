@@ -1,5 +1,5 @@
 # Ancestry-component-stack-plot
-主要用于保存一个自己用来绘制祖先成分分析图的R代码。
+仅用于保存一个自己用来绘制祖先成分分析图的R代码。
 
 # 文件名
 用于绘制堆积图的源数据，文件格式为admixture计算后的.Q文件，例如我的是snp_rename.k.Q
